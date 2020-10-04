@@ -25,7 +25,7 @@ body {
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
   color: #557c3e;
-  font-size: 1.5em;
+  font-size: 2.0em;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
@@ -39,7 +39,7 @@ body {
 .navbar-brand p { /* Kosher cert */
   color: #000;
   text-transform: uppercase;
-  font-size: .7em;
+  font-size: 1.0em;
   margin-top: 15px;
 }
 .navbar-brand p span { /* Star-K */
